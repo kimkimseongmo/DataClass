@@ -1,0 +1,78 @@
+---
+title: "이력서"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    toc_depth: 2
+---
+
+![](%EC%97%AC%EA%B6%8C%EC%82%AC%EC%A7%84_%EA%B9%80%EC%84%B1%EB%AA%A8.jpg){width="135"}
+
+```{=html}
+<style>
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin: 20px;
+}
+
+h1, h2, h3 {
+  color: navy;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-top: 0;
+}
+
+#personal-info {
+  margin-bottom: 20px;
+}
+
+#experience {
+  margin-bottom: 20px;
+}
+
+#languages {
+  margin-bottom: 20px;
+}
+
+#education {
+  margin-bottom: 20px;
+}
+
+#skills {
+  margin-bottom: 20px;
+}
+
+
+</style>
+```
+# 개인 정보 {#personal-info}
+
+-   이름: 김성모
+-   거주지: 서울특별시 강동구
+-   이메일: [seongmo.kim.97\@gmail.com](mailto:seongmo.kim.97@gmail.com){.email}
+-   전화번호: 010-7457-9757
+
+# 학력 {#education}
+
+-   학교: 한양대학교
+-   전공: 독어독문학과 / 창업융합전공
+-   학위: 학사
+-   기간: 2018년 - 2024년
+
+# 외국어 {#languages}
+
+-   영어 (상)
+-   독일어 (상)
+-   일본어 (중)
+
+# 이력 {#experience}
+
+-   2016 독일어 강사, 개인과외
+-   2018 대학생 전용 쉐어하우스 스타트업 운영
+-   2020 베트남 글로벌 인턴십
+-   2021 핀란드 코딩교육 벤치마킹 프로젝트
